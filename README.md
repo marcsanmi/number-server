@@ -1,7 +1,5 @@
 
-#NumberServer
-
-Golang 
+# NumberServer
 
 ```
 run make help
