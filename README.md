@@ -1,6 +1,8 @@
 
 # NumberServer
 
+A golang TCP server and TCP client implementation. The clients connect to the server and send as many messages as they want unless the type a non-numeric input. All the clients can be closed if some of them writres "terminate"
+
 ```
 run make help
 
